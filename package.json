@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.76.1",
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "dotenv": "^17.2.3",
+    "web3": "^4.16.0"
+  },
+  "name": "agricultural-supply-chain",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
